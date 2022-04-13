@@ -17,13 +17,18 @@
 [interactive]
     diffFilter = delta --color-only
 
-[delta]
-    navigate = true  # use n and N to move between diff sections
-    side-by-side = true  # show diffs side-by-side
-    line-numbers = true  # show line numbers
-
 [merge]
     conflictstyle = diff3
 
 [diff]
     colorMoved = default
+
+[include]
+    path = delta.gitconfig
+
+[help]
+	autocorrect = 1
+
+[grep]
+    extendedRegexp = true
+
