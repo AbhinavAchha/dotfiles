@@ -20,7 +20,8 @@
         "selectionColor": "auto",
         "styleSystemControls": true,
         "lightColorScheme": "Default",
-        "darkColorScheme": "Default"
+        "darkColorScheme": "Default",
+        "immediateModify": false
     },
     "presets": [],
     "customThemes": [
@@ -44,7 +45,8 @@
                 "selectionColor": "auto",
                 "styleSystemControls": true,
                 "lightColorScheme": "Default",
-                "darkColorScheme": "Default"
+                "darkColorScheme": "Default",
+                "immediateModify": false
             },
             "url": [
                 "127.0.0.1:8000"
@@ -70,7 +72,8 @@
                 "selectionColor": "auto",
                 "styleSystemControls": true,
                 "lightColorScheme": "Default",
-                "darkColorScheme": "Default"
+                "darkColorScheme": "Default",
+                "immediateModify": false
             },
             "url": [
                 "192.168.1.36:8000"
@@ -96,7 +99,8 @@
                 "selectionColor": "auto",
                 "styleSystemControls": true,
                 "lightColorScheme": "Default",
-                "darkColorScheme": "Default"
+                "darkColorScheme": "Default",
+                "immediateModify": false
             },
             "url": [
                 "192.168.29.4:8000"
@@ -128,7 +132,6 @@
         "stackoverflow.blog",
         "9to5linux.com",
         "idiomaticprogrammers.com",
-        "vanilla-extract.style",
         "swc.rs",
         "typescript-eslint.io",
         "esbuild.github.io",
@@ -140,11 +143,40 @@
         "revolist.github.io",
         "linuxhandbook.com",
         "overreacted.io",
-        "stackoverflow.com",
         "www.downshift-js.com",
-        "github.com",
         "kentcdodds.com",
-        "remix.run"
+        "remix.run",
+        "stackoverflow.com",
+        "picocss.com",
+        "fomir.vercel.app",
+        "fullscreen-for-googletasks.com",
+        "my.freshbooks.com",
+        "www.dabapps.com",
+        "syedmazhar.hashnode.dev",
+        "icmt.unionbankofindia.co.in",
+        "writersconnect.in",
+        "github.com",
+        "developer.mozilla.org",
+        "docs.saleor.io",
+        "bazinga.tools",
+        "easemyproduction.com",
+        "jsonlines.org",
+        "akj07.hashnode.dev",
+        "www.joshwcomeau.com",
+        "vanilla-extract.style",
+        "reactcosmos.org",
+        "fkhadra.github.io",
+        "black.readthedocs.io",
+        "wakatime.com",
+        "www.youtube.com",
+        "blog.brockherion.dev",
+        "trpc.io",
+        "meta.stackoverflow.com",
+        "keep.google.com",
+        "feeder.co",
+        "www.inoreader.com",
+        "feedly.com",
+        "www.electronjs.org"
     ],
     "siteListEnabled": [],
     "applyToListedOnly": false,
@@ -165,6 +197,7 @@
     "enableForPDF": true,
     "enableForProtectedPages": false,
     "enableContextMenus": false,
+    "detectDarkTheme": false,
     "notifyOfNews": false,
     "readNews": [
         "v4-9-16",
