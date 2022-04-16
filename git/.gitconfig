@@ -2,17 +2,24 @@
 	signingkey = achhaabhinav@gmail.com
 	name = AbhinavAchha
 	email = achhaabhinav@gmail.com
+
 [commit]
 	gpgsign = true
+
 [init]
 	defaultBranch = main
+
 [tag]
     gpgSign = true
+
 [color]
 	ui = auto
 
 [core]
     pager = delta
+    preloadindex = true
+    manyFiles = true
+    untrackedCache = true
 
 [interactive]
     diffFilter = delta --color-only
