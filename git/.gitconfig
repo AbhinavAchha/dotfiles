@@ -38,4 +38,11 @@
 
 [grep]
     extendedRegexp = true
+	lineNumber = true
 
+[push]
+    autoSetupRemote = true
+[pull]
+	rebase = true
+[fetch]
+	prune = true
