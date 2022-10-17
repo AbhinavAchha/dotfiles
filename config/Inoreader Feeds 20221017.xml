@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of laurelsprout4 from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="Linux" title="Linux">
+      <outline text="[RSS/Feed] nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format" title="[RSS/Feed] nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format" type="rss" xmlUrl="https://www.cyberciti.biz/atom-n-free/atom.xml" htmlUrl="https://www.cyberciti.biz/"/>
+      <outline text="9to5Linux" title="9to5Linux" type="rss" xmlUrl="https://9to5linux.com/feed/atom" htmlUrl="https://9to5linux.com/"/>
+      <outline text="It's F.O.S.S." title="It's F.O.S.S." type="rss" xmlUrl="https://feeds.feedburner.com/ItsFoss" htmlUrl="http://itsfoss.com/"/>
+      <outline text="Latest Linux Kernel Versions" title="Latest Linux Kernel Versions" type="rss" xmlUrl="https://www.kernel.org/feeds/kdist.xml" htmlUrl="http://www.kernel.org/"/>
+      <outline text="Linux Handbook" title="Linux Handbook" type="rss" xmlUrl="https://linuxhandbook.com/rss/" htmlUrl="https://linuxhandbook.com/"/>
+      <outline text="OMG! Ubuntu!" title="OMG! Ubuntu!" type="rss" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="http://www.omgubuntu.co.uk/"/>
+      <outline text="Phoronix" title="Phoronix" type="rss" xmlUrl="https://www.phoronix.com/rss.php" htmlUrl="http://www.phoronix.com/"/>
+      <outline text="Tecmint: Linux Howtos, Tutorials &amp; Guides" title="Tecmint: Linux Howtos, Tutorials &amp; Guides" type="rss" xmlUrl="https://www.tecmint.com/feed/" htmlUrl="https://www.tecmint.com/"/>
+    </outline>
+    <outline text="programming" title="programming">
+      <outline text="30 seconds of code" title="30 seconds of code" type="rss" xmlUrl="https://www.30secondsofcode.org/feed" htmlUrl="https://www.30secondsofcode.org/"/>
+      <outline text="Blog - Supabase" title="Blog - Supabase" type="rss" xmlUrl="https://supabase.com/feed.xml" htmlUrl="https://supabase.com/"/>
+      <outline text="Golang Weekly" title="Golang Weekly" type="rss" xmlUrl="https://cprss.s3.amazonaws.com/golangweekly.com.xml" htmlUrl="https://golangweekly.com/"/>
+      <outline text="LogRocket Blog" title="LogRocket Blog" type="rss" xmlUrl="https://blog.logrocket.com/feed/" htmlUrl="https://blog.logrocket.com/"/>
+      <outline text="React Digest" title="React Digest" type="rss" xmlUrl="https://reactdigest.net/digests/feed.rss" htmlUrl="https://reactdigest.net/"/>
+      <outline text="The EDB Blog" title="The EDB Blog" type="rss" xmlUrl="https://www.enterprisedb.com/blog/rss" htmlUrl="https://enterprisedb.com/"/>
+    </outline>
+    <outline text="Uncategorized" title="Uncategorized">
+      <outline text="AnandTech" title="AnandTech" type="rss" xmlUrl="https://www.anandtech.com/rss/" htmlUrl="http://www.anandtech.com/"/>
+      <outline text="Opensource.com" title="Opensource.com" type="rss" xmlUrl="https://opensource.com/feed" htmlUrl="https://opensource.com/frontpage"/>
+      <outline text="Private Feed for AbhinavAchha" title="Private Feed for AbhinavAchha" type="rss" xmlUrl="https://github.com/AbhinavAchha.private.atom?token=AQMW43LIEYZX4A5KWCCWV5WAM2A4Q" htmlUrl="https://github.com/AbhinavAchha"/>
+      <outline text="Stack Overflow Blog" title="Stack Overflow Blog" type="rss" xmlUrl="https://stackoverflow.blog/feed/" htmlUrl="http://stackoverflow.blog/"/>
+      <outline text="The GitHub Blog" title="The GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/"/>
+      <outline text="xda-developers" title="xda-developers" type="rss" xmlUrl="https://www.xda-developers.com/feed/" htmlUrl="http://www.xda-developers.com/"/>
+    </outline>
+  </body>
+</opml>
