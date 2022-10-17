@@ -91,7 +91,8 @@ window:
   #
   # Override the variant of the GTK theme. Commonly supported values are `dark`
   # and `light`. Set this to `None` to use the default theme variant.
-  gtk_theme_variant: dark
+  # gtk_theme_variant: dark
+  decorations_theme_variant: dark
 
 #scrolling:
   # Maximum number of lines in the scrollback buffer.
@@ -128,7 +129,7 @@ font:
     #style: Bold
 
   # Italic font face
-  italic:
+  italics:
     # Font family
     #
     # If the italic family is not specified, it will fall back to the
@@ -139,7 +140,7 @@ font:
     style: Italic
 
   # Bold italic font face
-  bold_italic:
+  bold_italics:
     # Font family
     #
     # If the bold italic family is not specified, it will fall back to the
@@ -170,7 +171,6 @@ font:
   #
   # Thin strokes are suitable for retina displays, but for non-retina screens
   # it is recommended to set `use_thin_strokes` to `false`.
-  #use_thin_strokes: true
 
 # If `true`, bold text is drawn using the bright color variants.
 draw_bold_text_with_bright_colors: true
