@@ -1,8 +1,44 @@
 {
-  "settingsVersion": "1.67",
+  "settingsVersion": "1.67.4",
   "exclusionRules": [
     {
       "pattern": "https?://mail.google.com/*",
+      "passKeys": ""
+    },
+    {
+      "pattern": "https?://inoreader.com/*",
+      "passKeys": "*"
+    },
+    {
+      "pattern": "https?://zty.pe/*",
+      "passKeys": "*"
+    },
+    {
+      "pattern": "https?://github.com/*",
+      "passKeys": "/"
+    },
+    {
+      "pattern": "https?://codesandbox.io/s/*",
+      "passKeys": ""
+    },
+    {
+      "pattern": "https?://goplay.tools/*",
+      "passKeys": ""
+    },
+    {
+      "pattern": "https?://excalidraw.com/*",
+      "passKeys": ""
+    },
+    {
+      "pattern": "https?://localhost:3000/*",
+      "passKeys": ""
+    },
+    {
+      "pattern": "https?://compiler-explorer.com/*",
+      "passKeys": ""
+    },
+    {
+      "pattern": "https?://leetcode.com/problems/*",
       "passKeys": ""
     }
   ],
