@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of Abhinav Achha from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="Australia | Latest News &amp; Stories | Uber Blog" title="Australia | Latest News &amp; Stories | Uber Blog" type="rss" xmlUrl="https://www.uber.com/en-AU/blog/rss/" htmlUrl="https://www.uber.com/"/>
+    <outline text="David Heinemeier Hansson" title="David Heinemeier Hansson" type="rss" xmlUrl="https://world.hey.com/dhh/feed.atom" htmlUrl="https://world.hey.com/"/>
+    <outline text="Frontend Masters Boost RSS Feed" title="Frontend Masters Boost RSS Feed" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/" htmlUrl="https://frontendmasters.com/blog"/>
+    <outline text="Google Testing Blog" title="Google Testing Blog" type="rss" xmlUrl="https://feeds.feedburner.com/blogspot/RLXA" htmlUrl="https://googletesting.blogspot.com/"/>
+    <outline text="Redowan's Reflections" title="Redowan's Reflections" type="rss" xmlUrl="https://rednafi.com/index.xml" htmlUrl="https://rednafi.com/"/>
+    <outline text="This Week in Neovim RSS Feed" title="This Week in Neovim RSS Feed" type="rss" xmlUrl="https://dotfyle.com/this-week-in-neovim/rss.xml" htmlUrl="https://dotfyle.com/this-week-in-neovim"/>
+    <outline text="Blogs" title="Blogs">
+      <outline text="Canva - Engineering Blog" title="Canva - Engineering Blog" type="rss" xmlUrl="https://www.canva.dev/blog/engineering/feed.xml" htmlUrl="https://www.canva.dev/blog/engineering/"/>
+      <outline text="Stack Overflow Blog" title="Stack Overflow Blog" type="rss" xmlUrl="https://stackoverflow.blog/feed/" htmlUrl="http://stackoverflow.blog/"/>
+      <outline text="The GitHub Blog" title="The GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/"/>
+      <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="https://feeds.feedburner.com/TheHackersNews" htmlUrl="https://thehackernews.com/"/>
+      <outline text="The Netflix Tech Blog" title="The Netflix Tech Blog" type="rss" xmlUrl="http://techblog.netflix.com/feeds/posts/default" htmlUrl="http://techblog.netflix.com/"/>
+    </outline>
+    <outline text="frontend" title="frontend">
+      <outline text="30 seconds of code" title="30 seconds of code" type="rss" xmlUrl="https://www.30secondsofcode.org/feed" htmlUrl="https://www.30secondsofcode.org/"/>
+      <outline text="developer.chrome.com: Blog" title="developer.chrome.com: Blog" type="rss" xmlUrl="https://developer.chrome.com/static/blog/feed.xml" htmlUrl="https://developer.chrome.com/blog/"/>
+      <outline text="Earthly Blog" title="Earthly Blog" type="rss" xmlUrl="https://earthly.dev/blog/feed.xml" htmlUrl="https://earthly.dev/blog/"/>
+      <outline text="Frontend Focus" title="Frontend Focus" type="rss" xmlUrl="https://cprss.s3.amazonaws.com/frontendfoc.us.xml" htmlUrl="https://frontendfoc.us/"/>
+      <outline text="JavaScript Weekly" title="JavaScript Weekly" type="rss" xmlUrl="https://cprss.s3.amazonaws.com/javascriptweekly.com.xml" htmlUrl="https://javascriptweekly.com/"/>
+      <outline text="React Digest" title="React Digest" type="rss" xmlUrl="https://reactdigest.net/digests/feed.rss" htmlUrl="https://reactdigest.net/"/>
+      <outline text="This Week In React - Newsletter" title="This Week In React - Newsletter" type="rss" xmlUrl="https://thisweekinreact.com/newsletter/rss.xml" htmlUrl="https://thisweekinreact.com/newsletter"/>
+      <outline text="Vercel News" title="Vercel News" type="rss" xmlUrl="https://vercel.com/atom" htmlUrl="https://vercel.com/"/>
+      <outline text="web.dev: Articles" title="web.dev: Articles" type="rss" xmlUrl="https://web.dev/static/articles/feed.xml" htmlUrl="https://web.dev/articles/"/>
+      <outline text="web.dev: Blog" title="web.dev: Blog" type="rss" xmlUrl="https://web.dev/static/blog/feed.xml" htmlUrl="https://web.dev/blog/"/>
+    </outline>
+    <outline text="Linux" title="Linux">
+      <outline text="It's F.O.S.S." title="It's F.O.S.S." type="rss" xmlUrl="https://feeds.feedburner.com/ItsFoss" htmlUrl="http://itsfoss.com/"/>
+      <outline text="LWN.net" title="LWN.net" type="rss" xmlUrl="https://lwn.net/headlines/newrss" htmlUrl="http://lwn.net/"/>
+      <outline text="OMG! Ubuntu!" title="OMG! Ubuntu!" type="rss" xmlUrl="https://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk/"/>
+      <outline text="Phoronix" title="Phoronix" type="rss" xmlUrl="https://www.phoronix.com/rss.php" htmlUrl="http://www.phoronix.com/"/>
+      <outline text="Tecmint: Linux Howtos, Tutorials &amp; Guides" title="Tecmint: Linux Howtos, Tutorials &amp; Guides" type="rss" xmlUrl="https://www.tecmint.com/feed/" htmlUrl="https://www.tecmint.com/"/>
+      <outline text="This Week in GNOME" title="This Week in GNOME" type="rss" xmlUrl="https://thisweek.gnome.org/index.xml" htmlUrl="https://thisweek.gnome.org/"/>
+    </outline>
+    <outline text="programming" title="programming">
+      <outline text="30 seconds of code" title="30 seconds of code" type="rss" xmlUrl="https://www.30secondsofcode.org/feed" htmlUrl="https://www.30secondsofcode.org/"/>
+      <outline text="Facebook Engineering" title="Facebook Engineering" type="rss" xmlUrl="https://engineering.fb.com/feed/" htmlUrl="https://engineering.fb.com/"/>
+      <outline text="Go - Bitfield Consulting" title="Go - Bitfield Consulting" type="rss" xmlUrl="https://bitfieldconsulting.com/golang?format=rss" htmlUrl="https://bitfieldconsulting.com/golang/"/>
+      <outline text="Golang Weekly" title="Golang Weekly" type="rss" xmlUrl="https://cprss.s3.amazonaws.com/golangweekly.com.xml" htmlUrl="https://golangweekly.com/"/>
+      <outline text="LogRocket Blog" title="LogRocket Blog" type="rss" xmlUrl="https://blog.logrocket.com/feed/" htmlUrl="https://blog.logrocket.com/"/>
+      <outline text="Node Weekly" title="Node Weekly" type="rss" xmlUrl="https://nodeweekly.com/rss/" htmlUrl="https://nodeweekly.com/"/>
+      <outline text="OpenReplay Blog" title="OpenReplay Blog" type="rss" xmlUrl="https://blog.openreplay.com/rss.xml" htmlUrl="https://blog.openreplay.com/"/>
+      <outline text="The Register - Software: Databases" title="The Register - Software: Databases" type="rss" xmlUrl="https://www.theregister.com/software/databases/headlines.atom" htmlUrl="https://www.theregister.com/software/databases/"/>
+      <outline text="Vercel News" title="Vercel News" type="rss" xmlUrl="https://vercel.com/atom" htmlUrl="https://vercel.com/"/>
+    </outline>
+    <outline text="SQL" title="SQL">
+      <outline text="Blog - Supabase" title="Blog - Supabase" type="rss" xmlUrl="https://supabase.com/feed.xml" htmlUrl="https://supabase.com/"/>
+      <outline text="Cockroach Labs" title="Cockroach Labs" type="rss" xmlUrl="https://www.cockroachlabs.com/feed/" htmlUrl="https://www.cockroachlabs.com/"/>
+      <outline text="InfoQ" title="InfoQ" type="rss" xmlUrl="https://feed.infoq.com/" htmlUrl="http://www.infoq.com/"/>
+      <outline text="MySQL Performance Blog" title="MySQL Performance Blog" type="rss" xmlUrl="https://www.percona.com/blog/feed/" htmlUrl="http://www.percona.com/blog"/>
+      <outline text="PeerDB Blog" title="PeerDB Blog" type="rss" xmlUrl="https://blog.peerdb.io/rss.xml" htmlUrl="https://blog.peerdb.io/"/>
+      <outline text="Planet PostgreSQL" title="Planet PostgreSQL" type="rss" xmlUrl="https://planet.postgresql.org/rss20.xml" htmlUrl="http://planet.postgresql.org/"/>
+      <outline text="PlanetScale - Blog" title="PlanetScale - Blog" type="rss" xmlUrl="https://planetscale.com/blog/rss.xml" htmlUrl="https://planetscale.com/"/>
+      <outline text="Postgres Weekly" title="Postgres Weekly" type="rss" xmlUrl="https://postgresweekly.com/rss/" htmlUrl="https://postgresweekly.com/"/>
+      <outline text="The EDB Blog" title="The EDB Blog" type="rss" xmlUrl="https://www.enterprisedb.com/blog/rss" htmlUrl="https://enterprisedb.com/"/>
+      <outline text="Timescale Blog" title="Timescale Blog" type="rss" xmlUrl="https://www.timescale.com/blog/rss/" htmlUrl="https://www.timescale.com/blog/"/>
+    </outline>
+    <outline text="Uncategorized" title="Uncategorized">
+      <outline text="Private Feed for AbhinavAchha" title="Private Feed for AbhinavAchha" type="rss" xmlUrl="https://github.com/AbhinavAchha.private.atom?token=AQMW43LIEYZX4A5KWCCWV5WAM2A4Q" htmlUrl="https://github.com/AbhinavAchha"/>
+      <outline text="xda-developers" title="xda-developers" type="rss" xmlUrl="https://www.xda-developers.com/feed/" htmlUrl="http://www.xda-developers.com/"/>
+    </outline>
+  </body>
+</opml>
